@@ -1,5 +1,7 @@
 const inquirer = require('inquirer')
 const getLogo = require('./lib/questions')
+const generateSvg = require('./lib/generateSvg')
+const fs = require('fs')
 
 
 function init(){
