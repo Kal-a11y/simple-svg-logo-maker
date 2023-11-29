@@ -36,6 +36,8 @@
 
   To use this application, first open the integrated terminal and type `npm start`. The terminal will ask prompts and the user will type the inputs. After all of the prompts have been answered with acceptable inputs, then a SVG file will be generated in the examples folder and ready for use.
 
+  ![Usage Demo GIF](./assets/images/LogoGeneratorDemo.gif)
+
   ## License
 
   [MIT License](https://opensource.org/license/mit/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -47,6 +49,8 @@
   ## Tests
 
   To run tests on this application open the terminal and type `npm test`.
+
+  ![Tests Demo GIF](./assets/images/LogoGeneratorTestsDemo.gif)
 
   ## Questions
 
